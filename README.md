@@ -1,4 +1,4 @@
-# btclol
+# btcLoL
 Bitcoin (and tangential) Links on Links
 
 **Basics:**
