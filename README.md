@@ -5,6 +5,7 @@ Bitcoin (and tangential) Links on Links
 - A Spoiler for the Future. https://blog.gardeviance.org/2013/11/a-spoiler-for-future-bitcoin.html
 - The Bitcoin Standard. https://ipfs.io/ipfs/bafykbzacebhefphpoxmz46xvl57acbdosxmaganwsv3qe4wdl3oxiqpnsclua?filename=The%20Bitcoin%20Standard.pdf
 - Bitcoin First: Why investors need to consider bitcoin separately from other digital assets. https://www.fidelitydigitalassets.com/bin-public/060_www_fidelity_com/documents/FDAS/bitcoin-first.pdf
+- Why Bitcoin is misunderstood by experts and why do experts regularly fail to predict the future? https://kenstandfield.medium.com/why-do-experts-regularly-fail-to-predict-the-future-5a4564b90645 
 - Proof-of-Work vs. Proof-of-Stake: Which Is Better? https://blockworks.co/proof-of-work-vs-proof-of-stake-whats-the-difference/
 
 **Fear, Uncertainty, and Doubt**
